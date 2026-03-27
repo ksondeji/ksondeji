@@ -7,7 +7,7 @@
 ## 📊 Mes Statistiques GitHub
 
 
-![Vos Stats](https://github-readme-stats.vercel.app/api?user=karl732&show_icons=true&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=karl732)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karl732&layout=compact&theme=radical)
 
