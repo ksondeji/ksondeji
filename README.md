@@ -9,19 +9,45 @@
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=karl732)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karl&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kar732l&layout=compact)
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=karl732&theme=radical)
 
 
+```python
 class DataEngineer:
     def __init__(self):
         self.name = "Karl Sondeji"
         self.role = "Junior Data Engineer"
-        self.specialties = ["ETL", "Data Processing", "Data Modeling", "Analytics platforms"]
-        self.currently_learning = ["Airflow", "Kubernetes"]
+
+        self.skills = {
+            "languages": ["Python", "SQL"],
+            "data_processing": ["Pandas", "PySpark"],
+            "databases": ["PostgreSQL", "MySQL"],
+            "tools": ["Git", "Docker"]
+        }
+
+        self.specialties = [
+            "ETL Pipelines",
+            "Data Processing",
+            "Data Modeling"
+        ]
+
+        self.currently_learning = [
+            "Apache Airflow",
+            "Kubernetes",
+            "Cloud (AWS/Azure)"
+        ]
+
+        self.goal = "Building scalable and efficient data pipelines"
+
+    def say_hi(self):
+        return "Thanks for visiting my profile 👋"
+
 
 me = DataEngineer()
+print(me.say_hi())
+```
 
 
 ## 🛠️ Ma Boîte à Outils
@@ -54,10 +80,10 @@ me = DataEngineer()
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 
 ### 📚 En cours d'apprentissage
-![Kafka](...)
-![Spark](...)
-![Scala](...)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
 
 ### 📌 Projets clés
-- Sécurisation d'une API vulnérables contre les cyberattaques
-- Pipeline ETL Orchestrée avec rapport Power BI sur Microsoft Fabrics 
+- [Sécurisation d'une API vulnérable contre les cyberattaques](https://github.com/karl732/Securisation-API-vulnerable)
+- [Pipeline ETL Orchestrée avec rapport Power BI sur Microsoft Fabrics](https://github.com/karl732/fabric-wind-power-analytics)
