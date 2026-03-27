@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Bienvenue&fontSize=40"/>
 
-# 👋 Salut, je suis Karl  
+# 👋🏾 Salut, je suis Karl  
 ### <img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring+Data+Engineer;Building+Data+Pipelines;Always+Learning+🚀&center=true&width=500&height=50">
 
 ## 📊 Mes Statistiques GitHub
@@ -66,7 +66,7 @@ print(me.say_hi())
 ### ☁️ Cloud & Big Data
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
-![Azure](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge\&logo=azure\&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=azure&logoColor=white)
 
 ### ⚙️ Outils & DevOps
 
