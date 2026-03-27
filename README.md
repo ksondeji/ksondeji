@@ -9,7 +9,7 @@
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=karl732)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karl732&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karl&layout=compact)
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=karl732&theme=radical)
 
