@@ -43,6 +43,9 @@ me = DataEngineer()
 print(me.say_hi())
 ```
 
+### 📌 Projets clés
+- [Sécurisation d'une API vulnérable contre les cyberattaques](https://github.com/karl732/Securisation-API-vulnerable)
+- [Pipeline ETL Orchestrée avec rapport Power BI sur Microsoft Fabrics](https://github.com/karl732/fabric-wind-power-analytics)
 
 ## 🛠️ Ma Boîte à Outils
 
@@ -77,7 +80,3 @@ print(me.say_hi())
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
-
-### 📌 Projets clés
-- [Sécurisation d'une API vulnérable contre les cyberattaques](https://github.com/karl732/Securisation-API-vulnerable)
-- [Pipeline ETL Orchestrée avec rapport Power BI sur Microsoft Fabrics](https://github.com/karl732/fabric-wind-power-analytics)
