@@ -5,7 +5,7 @@
 
 ## 📊 Mes Statistiques GitHub
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=karl732&theme=radical)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ksondeji&theme=radical)
 
 
 ```python
@@ -44,8 +44,8 @@ print(me.say_hi())
 ```
 
 ### 📌 Projets clés
-- [Sécurisation d'une API vulnérable contre les cyberattaques](https://github.com/karl732/Securisation-API-vulnerable)
-- [Pipeline ETL Orchestrée avec rapport Power BI sur Microsoft Fabrics](https://github.com/karl732/fabric-wind-power-analytics)
+- [Sécurisation d'une API vulnérable contre les cyberattaques](https://github.com/ksondeji/Securisation-API-vulnerable)
+- [Pipeline ETL Orchestrée avec rapport Power BI sur Microsoft Fabrics](https://github.com/ksondeji/fabric-wind-power-analytics)
 
 ## 🛠️ Ma Boîte à Outils
 
