@@ -36,7 +36,7 @@ class DataEngineer:
         self.goal = "Building scalable and efficient data pipelines"
 
     def say_hi(self):
-        return "Thanks for visiting my profile 👋"
+        return "Thanks for visiting my profile 👋🏾"
 
 
 me = DataEngineer()
