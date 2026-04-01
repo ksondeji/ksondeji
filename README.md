@@ -1,12 +1,25 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Bienvenue&fontSize=40"/>
 
-# 👋🏾 Salut, je suis Karl  
-### <img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring+Data+Engineer;Building+Data+Pipelines;Always+Learning+🚀&center=true&width=500&height=50">
+# 👋🏾 Salut, je suis Karl 
+
+<div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring+Data+Engineer;Building+Data+Pipelines;Always+Learning+🚀&center=true&width=500&height=50">
+</div>
+
 
 ## 📊 Mes Statistiques GitHub
 
+<div align="center">
+
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ksondeji&theme=radical)
 
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ksondeji&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=A78BFA&point=FFFFFF" alt="Contribution Graph" />
+</div>
+
+---
 
 ```python
 class DataEngineer:
@@ -42,10 +55,29 @@ class DataEngineer:
 me = DataEngineer()
 print(me.say_hi())
 ```
+---
 
-### 📌 Projets clés
-- [Sécurisation d'une API vulnérable contre les cyberattaques](https://github.com/ksondeji/Securisation-API-vulnerable)
-- [Pipeline ETL Orchestrée avec rapport Power BI sur Microsoft Fabrics](https://github.com/ksondeji/fabric-wind-power-analytics)
+## 📌 Projets clés
+
+<div align="center">
+
+ ### [Sécurisation d'une API vulnérable contre les cyberattaques](https://github.com/ksondeji/Securisation-API-vulnerable)
+**Api-client • Data security • docker-compose • Virtual machine • HTTPS server**
+
+Création d'une mini-application volontairement vulnérable afin de passer en revue différents fondamentaux sur la sécurité des données lorsque l'on crée des API web.
+
+ ---
+ 
+ ### [Pipeline ETL Orchestrée avec rapport Power BI sur Microsoft Fabrics](https://github.com/ksondeji/fabric-wind-power-analytics)
+**Orchestration framework • Data processing • medallion architecture • star schema • Power BI**
+
+This project aims to set up an orchestrated ETL pipeline to evaluate the daily performance of turbines.
+
+---
+
+
+</div>
+
 
 ## 🛠️ Ma Boîte à Outils
 
@@ -74,6 +106,7 @@ print(me.say_hi())
 ### ⚙️ Outils & DevOps
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 
 ### 📚 En cours d'apprentissage
