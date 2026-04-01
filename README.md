@@ -76,6 +76,13 @@ This project aims to set up an orchestrated ETL pipeline to evaluate the daily p
 ---
 
 
+ ### [Subscriptions predictions on bank mrketing data with Machine Learning](https://github.com/ksondeji/ML-sub-predictions-on-Bank-Marketing-Data)
+**Data science • Prediction model • R • Machine learning • Quarto**
+
+Analyse de données sur les campagnes de marketing d'une institution bancaire portugaise. L'objectif est de prédire si un client souscrira à un dépôt à terme en utilisant diverses techniques d'apprentissage automatique.
+
+---
+
 </div>
 
 
@@ -113,3 +120,26 @@ This project aims to set up an orchestrated ETL pipeline to evaluate the daily p
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
+
+---
+
+## 🎓 Education
+
+🎓 **Master's Data Engineering & Cloud Computing**  
+*AIVANCITY, Paris, France (2025-2026)*
+
+🎓 **Master's Data Sciene & Econometrics**  
+*Université de Tours, France (2023-2025)*
+
+🎓 **Bachelor's in Economics**  
+*Université de Tours, France (2020-2023)*
+
+---
+
+## 📊 Profile Views
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ksondeji&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+</div>
+
+---
