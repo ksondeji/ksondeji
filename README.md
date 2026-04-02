@@ -84,6 +84,12 @@ This project aims to set up an orchestrated ETL pipeline to evaluate the daily p
 
 ---
 
+ ### [Churn en Telcom — prédiction & rétention client](https://github.com/ksondeji/churn-app-prediction-rentention-clients/tree/master)
+**Data science • Prediction model • Python • Machine learning • Streamlit • API interractive**
+
+Application Streamlit qui prédit le churn client dans un contexte de Télécoms avec 89% de précision et génère des recommandations de rétention personnalisées.
+
+---
 
  ### [Subscriptions predictions on bank mrketing data with Machine Learning](https://github.com/ksondeji/ML-sub-predictions-on-Bank-Marketing-Data)
 **Data science • Prediction model • R • Machine learning • Quarto**
