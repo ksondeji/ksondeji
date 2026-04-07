@@ -91,7 +91,7 @@ Application Streamlit qui prédit le churn client dans un contexte de Télécoms
 
 ---
 
- ### [Subscriptions predictions on bank mrketing data with Machine Learning](https://github.com/ksondeji/ML-sub-predictions-on-Bank-Marketing-Data)
+ ### [Subscriptions predictions on bank marketing data with Machine Learning](https://github.com/ksondeji/ML-sub-predictions-on-Bank-Marketing-Data)
 **Data science • Prediction model • R • Machine learning • Quarto**
 
 Analyse de données sur les campagnes de marketing d'une institution bancaire portugaise. L'objectif est de prédire si un client souscrira à un dépôt à terme en utilisant diverses techniques d'apprentissage automatique.
